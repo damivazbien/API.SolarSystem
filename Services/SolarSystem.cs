@@ -15,7 +15,7 @@ namespace API.Services
     public class SolarSystem : ISolarSystem
     {
         //Url where you use the file json
-        string url = @"solarsystem.json";
+        string url = @"D:/home/site/repository/solarsystem.json";
 
         //Get soloar system data
         public List<Planet> Get()
