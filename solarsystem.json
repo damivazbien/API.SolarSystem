@@ -1,0 +1,10 @@
+[
+    {"name":"Mercury", "distanceFromSun":"4,878 miles km from sun"},
+    {"name":"Venus", "distanceFromSun":"12,104 miles km from sun"},
+    {"name":"Earth", "distanceFromSun":"12,756 miles km from sun"},
+    {"name":"Mars", "distanceFromSun": "6,787 miles km from sun" },
+    {"name":"Jupiter", "distanceFromSun":"142,796  miles km from sun"},
+    {"name":"Saturn", "distanceFromSun": "120,660 miles km from sun"},
+    {"name":"Uranus", "distanceFromSun": "51,118 miles km from sun"},
+    {"name":"Neptune", "distanceFromSun": "48,600 miles km from sun"}
+]
